@@ -1,0 +1,24 @@
+{
+  "name": "api-to-do-list",
+  "version": "1.0.0",
+  "description": "1-Descrição do projeto:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuriloBRS/api-to-do-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MuriloBRS/api-to-do-list/issues"
+  },
+  "homepage": "https://github.com/MuriloBRS/api-to-do-list#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

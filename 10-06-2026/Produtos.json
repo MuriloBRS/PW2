@@ -1,0 +1,7 @@
+[
+    { "id": 1, "nome": "TV", "categoria": "Eletrônicos" },
+    { "id": 2, "nome": "Camiseta", "categoria": "Roupas" },
+    { "id": 3, "nome": "Notebook", "categoria": "Eletrônicos" },
+    { "id": 4, "nome": "Arroz", "categoria": "Alimentos" },
+    { "id": 5, "nome": "Calça", "categoria": "Roupas" }
+]

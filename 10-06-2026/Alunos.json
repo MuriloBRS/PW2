@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nome": "Murilo",
+    "turma": "2 Ano",
+    "curso": "DS"
+  },
+  {
+    "id": 2,
+    "nome": "Yasmin",
+    "turma": "2 Ano",
+    "curso": "DS"
+  },
+  {
+    "id": 3,
+    "nome": "Rafa Filier",
+    "turma": "5 Ano",
+    "curso": "DS"
+  },
+  {
+    "id": 4,
+    "nome": "Glicerio",
+    "turma": "3 Ano",
+    "curso": "ADM"
+  },
+  {
+    "id": 5,
+    "nome": "Isa",
+    "turma": "1 Ano",
+    "curso": "ADS"
+  }
+]
